@@ -4,6 +4,15 @@ By [Sean Patrick John Paul George Ringo Doran](http://spjpgrd.com)
 **Abstract:**  
 The way your customer uses your product changes over time. A first time user sees your product with a completely different lens than your power user. With adaptive user interfaces and activity centered design, you can build out an experience that caters to the [8 stages of psychosocial development](http://www.simplypsychology.org/Erik-Erikson.html):
 
+1.	Infancy & Hope
+2.	Early Childhood & Will
+3.	Preschool Age & Purpose
+4.	School Age & Competence
+5. Adolescence & Fidelity
+6.	Early Adulthood & Love
+7.	Adulthood & Care
+8.	Maturity & Wisdom
+
 Before you open either the Keynote or PowerPoint file, please install the fonts in that are in the `.zip` file. The 8 stages are **heavily reliant** on them.
 
 **References:**
